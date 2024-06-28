@@ -1,0 +1,10 @@
+[application]
+title = "Echo"
+enabled = true
+description = "The minimal local-first web app example"
+tags = ["example", "echo"]
+access_token = ""
+
+[permissions]
+required = ["client_http"]
+allowed = ["client_http"]
