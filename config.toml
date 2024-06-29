@@ -1,6 +1,7 @@
 [application]
 title = "Echo"
 enabled = true
+autoload = true
 description = "The minimal local-first web app example"
 tags = ["example", "echo"]
 access_token = ""
